@@ -13,7 +13,7 @@
     <tbody>
         {% for product in products%}
             <tr>
-                <td>{{ product.name}}</td>
+                <td>{{ product.name }}</td>
                 <td> {{product.description}} </td>
                 <td> {% if product.category is not null %}
                     {{product.category.name}}
