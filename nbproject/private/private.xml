@@ -5,6 +5,9 @@
         <group>
             <file>file:/C:/xampp/htdocs/Eshop/composer.json</file>
             <file>file:/C:/xampp/htdocs/Eshop/src/EshopBundle/Entity/Category.php</file>
+            <file>file:/C:/xampp/htdocs/Eshop/src/EshopBundle/Controller/DefaultController.php</file>
+            <file>file:/C:/xampp/htdocs/Eshop/app/Resources/views/base.html.twig</file>
+            <file>file:/C:/xampp/htdocs/Eshop/src/EshopBundle/Resources/views/Default/index.html.twig</file>
             <file>file:/C:/xampp/htdocs/Eshop/src/EshopBundle/Repository/CategoryRepository.php</file>
         </group>
     </open-files>
