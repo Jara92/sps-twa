@@ -5,6 +5,11 @@
         <title>{% block title %}{% endblock %}</title>
         <link rel="stylesheet" href="{{ asset("bundles/eshop/css/bootstrap.min.css") }}" />
         <link rel="icon" type="image/x-icon" href="{{ asset("favicon.ico") }}" />
+        <style>
+            body{
+                margin: 10px;
+            }
+        </style>
     </head>
     <body>
         {% block body %} {% endblock %}

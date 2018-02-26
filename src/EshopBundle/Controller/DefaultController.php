@@ -22,7 +22,8 @@ class DefaultController extends Controller
         
         // array - Parametr šablony
         return $this->render('@Eshop\Default\index.html.twig', array(
-            "products" => $products
+            "products" => $products,
+            "password" => password_hash("heslo", PASSWORD_BCRYPT, array("cost" => 12))
         ));
     }
 }
