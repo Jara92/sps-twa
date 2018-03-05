@@ -19,8 +19,6 @@ security:
         dev:
             pattern: ^/(_(profiler|wdt)|css|images|js)/
             security: false
-        sekce:
-            
         main:
             provider: eshop_provider
             logout:

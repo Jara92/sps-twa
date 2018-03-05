@@ -1,0 +1,19 @@
+{% extends "base.html.twig" %} 
+
+{% block title %} Registrace {% endblock %}
+
+{% block body %}
+    <div class="jumbotron">
+        <h1>Registrace</h1>
+    </div>
+    <div class="container">
+{% if error is defined%}
+  <div>{{ error.messageKey|trans(error.messageData, 'security') }}</div>
+{% endif %}
+
+    {{ form_start(form) }}
+    {{ form_widget(form) }}
+    <!-- form_widget(form.surname) -->
+    {{ form_end(form) }}
+
+{% endblock %}

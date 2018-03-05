@@ -3,12 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/Eshop/composer.json</file>
-            <file>file:/C:/xampp/htdocs/Eshop/src/EshopBundle/Entity/Category.php</file>
-            <file>file:/C:/xampp/htdocs/Eshop/src/EshopBundle/Controller/DefaultController.php</file>
-            <file>file:/C:/xampp/htdocs/Eshop/app/Resources/views/base.html.twig</file>
-            <file>file:/C:/xampp/htdocs/Eshop/src/EshopBundle/Resources/views/Default/index.html.twig</file>
-            <file>file:/C:/xampp/htdocs/Eshop/src/EshopBundle/Repository/CategoryRepository.php</file>
+            <file>file:/C:/xampp/htdocs/shop/sps-twa/src/EshopBundle/Controller/SecurityController.php</file>
+            <file>file:/C:/xampp/htdocs/shop/sps-twa/app/config/routing.yml</file>
+            <file>file:/C:/xampp/htdocs/shop/sps-twa/src/EshopBundle/Resources/views/Default/index.html.twig</file>
+            <file>file:/C:/xampp/htdocs/shop/sps-twa/app/config/security.yml</file>
+            <file>file:/C:/xampp/htdocs/shop/sps-twa/src/EshopBundle/Entity/User.php</file>
+            <file>file:/C:/xampp/htdocs/shop/sps-twa/src/EshopBundle/Controller/DefaultController.php</file>
+            <file>file:/C:/xampp/htdocs/shop/sps-twa/app/Resources/views/base.html.twig</file>
+            <file>file:/C:/xampp/htdocs/shop/sps-twa/src/EshopBundle/Resources/views/security/login.html.twig</file>
         </group>
     </open-files>
 </project-private>
